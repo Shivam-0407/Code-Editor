@@ -47,9 +47,9 @@ This project is completely dependent on how one can use the idea of hooks provid
 The useState hook is used to manage the state of the code being edited. It initializes with a default code snippet and provides a way to update the code as the user types.
 
 ## useRef() - 
-The useRef hook is used to create a reference to the <code> element. This reference is used to apply syntax highlighting to the code content.
+The useRef hook is used to create a reference to the `<code>` element. This reference is used to apply syntax highlighting to the code content.
 
 ## useEffect() - 
-The useEffect hook is used to apply syntax highlighting whenever the code or language changes. It runs the Prism.js highlighting function on the referenced <code> element.
+The useEffect hook is used to apply syntax highlighting whenever the code or language changes. It runs the Prism.js highlighting function on the referenced `<code>` element.
 
 
